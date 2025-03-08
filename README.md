@@ -1,9 +1,7 @@
-# Привет, я [Ваше Имя] 👋
+# Hi, i'm Il'ya👋
 **Full-Stack Developer | React & Node.js Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ваш-профиль)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/ваш-ник)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=flat)](https://ваш-сайт)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/hudik1234)
 
 **🛠️ Мой стек:**
   
@@ -30,8 +28,8 @@
 
 **📈 Активность:**
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш-аккаунт&show_icons=true&theme=radical)](https://github.com/ваш-аккаунт)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-аккаунт&layout=compact)](https://github.com/ваш-аккаунт)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PainInTheHead&show_icons=true&theme=radical)](https://github.com/ваш-аккаунт)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PainInTheHead&layout=compact)](https://github.com/ваш-аккаунт)
 
 **💡 Обо мне:**
 - 🧩 Создаю сложные SPA с микрофронтенд-архитектурой
