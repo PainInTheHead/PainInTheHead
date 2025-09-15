@@ -18,14 +18,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0909?style=flat)
 
-**🔨 Избранные проекты:**
-
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [Микрофронты E-commerce](https://github.com/ваш-аккаунт/microfrontend-ecom) | Масштабируемая архитектура с NX | React, NX, Redux-Saga |
-| [Full-Stack SaaS Платформа](https://github.com/ваш-аккаунт/saas-platform) | CRM система с аналитикой | Next.js, Node.js, PostgreSQL |
-| [UI Kit](https://github.com/ваш-аккаунт/ui-kit) | Библиотека компонентов | TypeScript, Storybook |
-
 **💡 Обо мне:**
 - 🧩 Создаю сложные SPA с микрофронтенд-архитектурой
 - 🚀 Оптимизирую производительность (бенчмарки Lighthouse 90+)
