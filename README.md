@@ -26,11 +26,6 @@
 | [Full-Stack SaaS Платформа](https://github.com/ваш-аккаунт/saas-platform) | CRM система с аналитикой | Next.js, Node.js, PostgreSQL |
 | [UI Kit](https://github.com/ваш-аккаунт/ui-kit) | Библиотека компонентов | TypeScript, Storybook |
 
-**📈 Активность:**
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PainInTheHead&show_icons=true&theme=radical)](https://github.com/ваш-аккаунт)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PainInTheHead&layout=compact)](https://github.com/ваш-аккаунт)
-
 **💡 Обо мне:**
 - 🧩 Создаю сложные SPA с микрофронтенд-архитектурой
 - 🚀 Оптимизирую производительность (бенчмарки Lighthouse 90+)
