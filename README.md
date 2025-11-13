@@ -17,9 +17,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0909?style=flat)
-
-**💡 Обо мне:**
-- 🧩 Создаю сложные SPA с микрофронтенд-архитектурой
-- 🚀 Оптимизирую производительность (бенчмарки Lighthouse 90+)
-- 🔄 Автоматизирую процессы: CI/CD с GitHub Actions
-- 📝 Пишу код с TypeScript-first подходом
